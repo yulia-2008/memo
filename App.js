@@ -121,7 +121,7 @@ export default function App() {
 
   return (
     <>
-    <StatusBar barStyle="dark-content" />
+    <StatusBar barStyle="light-content" />
     <TouchableWithoutFeedback onPress={()=>{Keyboard.dismiss()} }>
       <View style={styles.container}>
         <View style={[styles.head, {backgroundColor: theme}]} >  

@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/my_icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/my_splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,9 +21,11 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/my_icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.yulia_123.memos2",
+       "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"

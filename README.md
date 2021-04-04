@@ -17,3 +17,7 @@
 
 - Used Android Studio Emulator for development and testing.
 
+<!-- Fur future release, in app.json:
+"package": "com.yulia_123.memos2",
+       "versionCode": 2 -->
+
