@@ -1,5 +1,7 @@
 <h3> About</h3>
-<p> MEMO is a simple note organizer. My first React Native App! </p>
+<p> MEMO is a note organizer. My first React Native App! </p>
+<p> Link to google Play Store: </p>
+https://play.google.com/store/apps/details?id=com.yulia_123.Memo
 
 <h3>Features </h3>
 
