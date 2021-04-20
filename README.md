@@ -1,6 +1,6 @@
 <h3>MEMO</h3>
 
-<img src="./Photo.png"></img>
+<img width="20" height="40" src="./Photo.png"></img>
 
 <h3>About the project</h3>
 
