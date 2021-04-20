@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "memos2",
-    "slug": "memos2",
-    "version": "2.0.0",
+    "name": "Memo",
+    "slug": "Memo",
+    "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./assets/my_icon.png",
     "splash": {
@@ -24,8 +24,8 @@
         "foregroundImage": "./assets/my_icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.yulia_123.memos2",
-       "versionCode": 2
+      "package": "com.yulia_123.Memo",
+       "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"

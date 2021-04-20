@@ -1,9 +1,11 @@
-<h3> About</h3>
-<p> MEMO is a simple note organizer. My first React Native App! </p>
+<h3>MEMO</h3>
 
-<h3>Features </h3>
+<img src="./Photo.png"></img>
 
-- Write notes, edit and delete. Change themes.
+<h3>About the project</h3>
+
+<p> MEMO is a note organizer. Users can write (edit/delete) notes, change themes.
+ Released on Google Play Store https://play.google.com/store/apps/details?id=com.yulia_123.Memo </p>
 
 - Built with React Native.
 
@@ -16,8 +18,4 @@
 - Integrated EXPO icons.
 
 - Used Android Studio Emulator for development and testing.
-
-<!-- Fur future release, in app.json:
-"package": "com.yulia_123.memos2",
-       "versionCode": 2 -->
 
